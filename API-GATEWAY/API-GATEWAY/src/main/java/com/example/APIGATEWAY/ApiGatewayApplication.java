@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 @SpringBootApplication
-//@EnableDiscoveryClient
+@EnableDiscoveryClient
 public class ApiGatewayApplication {
 
 	public static void main(String[] args) {
@@ -14,4 +14,4 @@ public class ApiGatewayApplication {
 
 }
 
-//            uri: http://localhost:9002/employees/ (in application.yml)
+
