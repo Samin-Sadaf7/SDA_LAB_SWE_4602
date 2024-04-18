@@ -10,7 +10,7 @@ import java.util.List;
 
 @Component
 public class InventoryController {
-    private List<Product> products = new ProductList().initializeProducts();
+    private final List<Product> products = new ProductList().initializeProducts();
 
     @RabbitListener(queues = Constants.QUEUE )
     public void consumeMessageFromQueue(OrderStatus orderStatus) {
