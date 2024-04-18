@@ -4,12 +4,25 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/API-GATEWAY/API-GATEWAY/pom.xml" />
         <option value="$PROJECT_DIR$/Order-Service/Order-Service/pom.xml" />
         <option value="$PROJECT_DIR$/Product-Service/Product-Service/pom.xml" />
         <option value="$PROJECT_DIR$/SERVICE-REGISTRY/SERVICE-REGISTRY/pom.xml" />
         <option value="$PROJECT_DIR$/Customer_microservice/pom.xml" />
         <option value="$PROJECT_DIR$/Employee_microservice/pom.xml" />
+=======
+        <option value="$PROJECT_DIR$/Lab7/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab7_inventory/pom.xml" />
+        <option value="$PROJECT_DIR$/employeeService/pom.xml" />
+        <option value="$PROJECT_DIR$/employee-service/pom.xml" />
+        <option value="$PROJECT_DIR$/SDA_LAB_SWE_4602/API-GATEWAY/API-GATEWAY/pom.xml" />
+        <option value="$PROJECT_DIR$/SDA_LAB_SWE_4602/Order-Service/Order-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/SDA_LAB_SWE_4602/Product-Service/Product-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/SDA_LAB_SWE_4602/SERVICE-REGISTRY/SERVICE-REGISTRY/pom.xml" />
+        <option value="$PROJECT_DIR$/SDA_LAB_SWE_4602/Customer_microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/SDA_LAB_SWE_4602/Employee_microservice/pom.xml" />
+>>>>>>> a275977898652c0ebfcf6bcdb3d22ad35ef7a227
       </list>
     </option>
   </component>
